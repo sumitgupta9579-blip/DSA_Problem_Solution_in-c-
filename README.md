@@ -7,12 +7,14 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0052-n-queens-ii) |
@@ -28,6 +30,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -37,4 +40,5 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
