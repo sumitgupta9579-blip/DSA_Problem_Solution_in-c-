@@ -10,6 +10,7 @@ solving dsa questions in c++ programing language
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
+| [0746-min-cost-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0746-min-cost-climbing-stairs) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
@@ -49,6 +50,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0746-min-cost-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
