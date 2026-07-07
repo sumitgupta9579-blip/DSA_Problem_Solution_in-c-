@@ -10,6 +10,7 @@ solving dsa questions in c++ programing language
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
+| [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0213-house-robber-ii) |
@@ -36,6 +37,7 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
+| [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
@@ -59,6 +61,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
