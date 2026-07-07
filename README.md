@@ -14,6 +14,7 @@ solving dsa questions in c++ programing language
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0213-house-robber-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Backtracking
 |  |
@@ -36,6 +37,7 @@ solving dsa questions in c++ programing language
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
 |  |
@@ -64,6 +66,7 @@ solving dsa questions in c++ programing language
 | [0509-fibonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1137-n-th-tribonacci-number) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 ## Recursion
 |  |
 | ------- |
