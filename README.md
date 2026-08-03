@@ -12,6 +12,7 @@ solving dsa questions in c++ programing language
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
+| [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0322-coin-change) |
@@ -61,6 +62,7 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0062-unique-paths](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0279-perfect-squares](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0509-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1137-n-th-tribonacci-number) |
@@ -95,4 +97,8 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0062-unique-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
