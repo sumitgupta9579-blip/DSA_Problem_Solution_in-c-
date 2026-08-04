@@ -13,6 +13,7 @@ solving dsa questions in c++ programing language
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0213-house-robber-ii) |
@@ -65,6 +66,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
