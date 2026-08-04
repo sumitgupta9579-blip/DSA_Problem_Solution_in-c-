@@ -20,12 +20,24 @@ public:
 
         //  Method -2
 
-        sort(nums.begin(), nums.end());
-        for(int i=0;i<n;i++){
-            if(nums[i]!=i) return i;
-        }
+        // sort(nums.begin(), nums.end());
+        // for(int i=0;i<n;i++){
+        //     if(nums[i]!=i) return i;
+        // }
+        // return n;
 
-        return n;
+
+        //  Method -3
+
+        int sum =0 ;
+        for(int i=0;i<n;i++){
+            sum+=nums[i];
+        }
+        int n_sum = n*(n+1)/2;
+
+        return n_sum-sum;
+
+
 
     }
 };
