@@ -29,14 +29,30 @@ public:
 
         //  Method -3
 
-        int sum =0 ;
-        for(int i=0;i<n;i++){
-            sum+=nums[i];
+        // int sum =0 ;
+        // for(int i=0;i<n;i++){
+        //     sum+=nums[i];
+        // }
+        // int n_sum = n*(n+1)/2;
+
+        // return n_sum-sum;
+
+
+        //  Method -4
+
+        vector<bool> flag(n + 1, false);
+        for (int i = 0; i < n; i++) {
+            flag[nums[i]] = true;
         }
-        int n_sum = n*(n+1)/2;
 
-        return n_sum-sum;
+        for (int i = 0; i <= n; i++) {
+            if (!flag[i])
+                return i;
+        }
 
+        return -1;
+       
+     
 
 
     }
