@@ -14,6 +14,7 @@ solving dsa questions in c++ programing language
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0213-house-robber-ii) |
@@ -107,6 +108,7 @@ solving dsa questions in c++ programing language
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -119,5 +121,6 @@ solving dsa questions in c++ programing language
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
