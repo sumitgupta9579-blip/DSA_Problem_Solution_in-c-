@@ -10,6 +10,7 @@ solving dsa questions in c++ programing language
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
@@ -48,6 +49,7 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -66,6 +68,7 @@ solving dsa questions in c++ programing language
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0070-climbing-stairs) |
