@@ -20,6 +20,7 @@ solving dsa questions in c++ programing language
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0213-house-robber-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0494-target-sum) |
@@ -53,6 +54,7 @@ solving dsa questions in c++ programing language
 | [0048-rotate-image](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Simulation
@@ -118,6 +120,7 @@ solving dsa questions in c++ programing language
 ## Binary Search
 |  |
 | ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -128,4 +131,8 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
