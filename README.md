@@ -16,6 +16,7 @@ solving dsa questions in c++ programing language
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
@@ -56,6 +57,7 @@ solving dsa questions in c++ programing language
 | [0054-spiral-matrix](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
@@ -70,6 +72,7 @@ solving dsa questions in c++ programing language
 | [0001-two-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 ## Math
 |  |
