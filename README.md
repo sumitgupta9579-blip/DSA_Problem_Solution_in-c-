@@ -12,6 +12,7 @@ solving dsa questions in c++ programing language
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
+| [0054-spiral-matrix](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
@@ -52,6 +53,7 @@ solving dsa questions in c++ programing language
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
@@ -60,6 +62,7 @@ solving dsa questions in c++ programing language
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0054-spiral-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
