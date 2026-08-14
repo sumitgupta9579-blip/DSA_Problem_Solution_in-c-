@@ -31,6 +31,7 @@ solving dsa questions in c++ programing language
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2596-check-knight-tour-configuration) |
 | [2915-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2915-length-of-the-longest-subsequence-that-sums-to-target) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Backtracking
 |  |
 | ------- |
@@ -75,6 +76,7 @@ solving dsa questions in c++ programing language
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2956-find-common-elements-between-two-arrays) |
 ## Math
 |  |
 | ------- |
