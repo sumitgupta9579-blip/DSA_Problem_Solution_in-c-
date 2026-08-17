@@ -8,6 +8,7 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0001-two-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
@@ -135,6 +136,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
