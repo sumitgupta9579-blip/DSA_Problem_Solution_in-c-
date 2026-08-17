@@ -27,6 +27,7 @@ solving dsa questions in c++ programing language
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0494-target-sum) |
+| [0704-binary-search](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0704-binary-search) |
 | [0746-min-cost-climbing-stairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0746-min-cost-climbing-stairs) |
 | [0881-boats-to-save-people](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0881-boats-to-save-people) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -135,6 +136,7 @@ solving dsa questions in c++ programing language
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
