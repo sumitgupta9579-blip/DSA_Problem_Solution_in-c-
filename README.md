@@ -133,6 +133,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0881-boats-to-save-people](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0881-boats-to-save-people) |
@@ -183,4 +184,8 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0852-peak-index-in-a-mountain-array) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
