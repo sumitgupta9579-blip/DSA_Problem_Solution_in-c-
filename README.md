@@ -43,6 +43,7 @@ solving dsa questions in c++ programing language
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
@@ -104,6 +105,7 @@ solving dsa questions in c++ programing language
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
@@ -194,6 +196,11 @@ solving dsa questions in c++ programing language
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0242-valid-anagram) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
