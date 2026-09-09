@@ -19,6 +19,7 @@ solving dsa questions in c++ programing language
 | [0064-minimum-path-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -46,6 +47,7 @@ solving dsa questions in c++ programing language
 | [0046-permutations](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0494-target-sum) |
 ## Depth-First Search
 |  |
@@ -156,6 +158,7 @@ solving dsa questions in c++ programing language
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
