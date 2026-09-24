@@ -150,6 +150,7 @@ solving dsa questions in c++ programing language
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0881-boats-to-save-people) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -238,6 +239,7 @@ solving dsa questions in c++ programing language
 | [0142-linked-list-cycle-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
