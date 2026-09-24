@@ -87,6 +87,7 @@ solving dsa questions in c++ programing language
 | [0037-sudoku-solver](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0268-missing-number) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -144,6 +145,7 @@ solving dsa questions in c++ programing language
 | [0088-merge-sorted-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
@@ -233,10 +235,12 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
