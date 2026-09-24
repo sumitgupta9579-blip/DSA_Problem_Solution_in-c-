@@ -13,32 +13,32 @@ public:
     ListNode* middleNode(ListNode* head) {
         ListNode* temp = head ;
         int length = 0;
-        ListNode* slow = head ;
-        ListNode* fast = head ;
+        // ListNode* slow = head ;
+        // ListNode* fast = head ;
         while(temp!=NULL){
             temp=temp->next;
             length++;
         }
-        if(length%2 != 0){
-            while(fast->next!=NULL){
-                slow = slow->next;
-                fast = fast->next->next;
-            }
-        }
-        else{
-            while(fast!=NULL){
-                slow = slow->next;
-                fast = fast->next->next;
-            }
-        }
-        return slow ;
-
-
-        // temp = head ;
-        // for(int i=1;i<=len/2;i++){
-        //     temp = temp->next;
+        // if(length%2 != 0){
+        //     while(fast->next!=NULL){
+        //         slow = slow->next;
+        //         fast = fast->next->next;
+        //     }
         // }
-        // return temp ;
+        // else{
+        //     while(fast!=NULL){
+        //         slow = slow->next;
+        //         fast = fast->next->next;
+        //     }
+        // }
+        // return slow ;
+
+
+        temp = head ;
+        for(int i=1;i<=length/2;i++){
+            temp = temp->next;
+        }
+        return temp ;
         
     }
 };
