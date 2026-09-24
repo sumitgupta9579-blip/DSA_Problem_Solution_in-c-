@@ -226,4 +226,8 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0493-reverse-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
