@@ -144,6 +144,7 @@ solving dsa questions in c++ programing language
 | [0125-valid-palindrome](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
+| [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0881-boats-to-save-people) |
 ## Binary Search
 |  |
@@ -230,4 +231,5 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0237-delete-node-in-a-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
