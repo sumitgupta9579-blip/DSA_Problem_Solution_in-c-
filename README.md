@@ -132,6 +132,7 @@ solving dsa questions in c++ programing language
 | [0024-swap-nodes-in-pairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0234-palindrome-linked-list) |
 | [0509-fibonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -158,6 +159,7 @@ solving dsa questions in c++ programing language
 | [0160-intersection-of-two-linked-lists](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0189-rotate-array) |
+| [0234-palindrome-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -261,6 +263,7 @@ solving dsa questions in c++ programing language
 | [0148-sort-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
@@ -271,4 +274,8 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0142-linked-list-cycle-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
