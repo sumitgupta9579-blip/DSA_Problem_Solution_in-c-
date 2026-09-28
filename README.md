@@ -129,6 +129,7 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0509-fibonacci-number) |
 ## Memoization
@@ -249,6 +250,7 @@ solving dsa questions in c++ programing language
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0083-remove-duplicates-from-sorted-list) |
