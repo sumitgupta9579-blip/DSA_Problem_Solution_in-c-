@@ -164,6 +164,7 @@ solving dsa questions in c++ programing language
 | [0881-boats-to-save-people](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0881-boats-to-save-people) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -269,6 +270,7 @@ solving dsa questions in c++ programing language
 | [0876-middle-of-the-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -278,4 +280,5 @@ solving dsa questions in c++ programing language
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/sumitgupta9579-blip/DSA_Problem_Solution_in-c-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
